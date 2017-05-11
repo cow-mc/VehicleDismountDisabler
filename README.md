@@ -1,6 +1,6 @@
 # VehicleDismountDisabler
 
-A Spigot plugin that prevent players to exit certain vehicles in certain worlds.
+A Spigot plugin that prevents players to exit certain vehicles in certain worlds.
 
 To get out of a vehicle in a blacklisted world, the vehicle has to be destroyed.
 
