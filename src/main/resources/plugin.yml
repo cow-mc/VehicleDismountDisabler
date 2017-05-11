@@ -1,0 +1,5 @@
+name: ${project.name}
+version: ${project.version}
+main: farm.the.vehicledismountdisabler.VehicleDismountDisabler
+author: Cow
+description: ${project.description}

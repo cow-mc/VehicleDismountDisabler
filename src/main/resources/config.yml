@@ -1,0 +1,14 @@
+# world names where this plugin should be active
+worlds:
+  - world
+# entries with a # in front, are disabled
+vehicles:
+  - MINECART
+  #- BOAT
+  #- PIG
+  #- HORSE
+  #- SKELETON_HORSE
+  #- ZOMBIE_HORSE
+  #- DONKEY
+  #- MULE
+  #- LLAMA
